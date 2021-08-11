@@ -1,0 +1,132 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1033px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  width: 643px;
+  margin: 26px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 39px auto 0 27px;
+}
+
+.u-section-1 .u-video-1 {
+  height: 290px;
+  width: 513px;
+  margin: 18px auto 0 0;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-image-1 {
+  width: 313px;
+  height: 313px;
+  margin: -313px 289px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 239px;
+  height: 318px;
+  margin: -318px 25px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 313px;
+  height: 476px;
+  margin: 25px 289px 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 454px;
+  height: 463px;
+  margin: -476px auto 39px 27px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-video-1 {
+    margin-top: 20px;
+    margin-left: 27px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 109px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 442px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -1466px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 1093px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-top: 1892px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 227px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: 227px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2137px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-top: 27px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 19px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 836px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -1141px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 315px;
+    width: 313px;
+    margin-top: 19px;
+    margin-left: auto;
+    margin-bottom: 60px;
+  }
+}
