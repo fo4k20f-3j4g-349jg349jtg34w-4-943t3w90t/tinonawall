@@ -155,7 +155,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 812px;
+  min-height: 892px;
   background-image: url("images/169043474_10158731046741091_8115093453396599924_n11.jpg");
   background-position: 50% 50%;
 }
@@ -276,7 +276,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 789px;
+    min-height: 867px;
   }
 }
 
@@ -368,7 +368,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 1209px;
+    min-height: 1328px;
   }
 }
 
@@ -505,7 +505,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 907px;
+    min-height: 996px;
     z-index: auto;
   }
 }
@@ -614,7 +614,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 571px;
+    min-height: 627px;
   }
 }.u-section-2 {
   background-image: none;
@@ -722,6 +722,7 @@
 }
 
 .u-section-3 .u-text-1 {
+  font-size: 3.75rem;
   margin: 22px 274px 0 0;
 }
 
@@ -737,7 +738,6 @@
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
     margin-right: 74px;
-    font-size: 3.75rem;
   }
 }
 
