@@ -371,6 +371,8 @@
   .u-section-1 .u-image-1 {
     height: 567px;
     width: 340px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -449,17 +451,20 @@
   .u-section-1 .u-image-11 {
     width: 372px;
     height: 335px;
-    margin-right: 0;
+    margin-left: -16px;
+    margin-right: -16px;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.75rem;
+    margin-left: 0;
     margin-right: 0;
     padding: 5px 0;
   }
 
   .u-section-1 .u-btn-2 {
     font-size: 0.75rem;
+    margin-left: 0;
     margin-right: 0;
     padding: 4px 27px 5px;
   }

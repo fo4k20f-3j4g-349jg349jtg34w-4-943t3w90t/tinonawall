@@ -167,20 +167,23 @@
 
   .u-section-2 .u-text-2 {
     font-size: 1.25rem;
+    width: auto;
   }
 
   .u-section-2 .u-text-3 {
-    width: 340px;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-text-4 {
-    width: 340px;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 45px;
-    margin-left: 0;
-    margin-bottom: 27px;
+    margin: 45px -1px 27px;
     padding: 2px 15px 2px 13px;
   }
 }

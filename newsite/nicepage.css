@@ -34649,7 +34649,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 1382px;
+    min-height: 1364px;
   }
 
   .u-footer .u-layout-cell-1 {
@@ -34666,6 +34666,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-icon-3 {
     margin-top: 12px;
+  }
+
+  .u-footer .u-layout-wrap-2 {
+    margin-bottom: 0;
   }
 
   .u-footer .u-text-8 {
