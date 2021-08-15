@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 3110px;
+  min-height: 3146px;
 }
 
 .u-section-1 .u-group-1 {
@@ -719,7 +719,13 @@
   border-style: none;
   font-weight: 700;
   background-image: none;
-  margin: 18px auto;
+  margin: 18px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  margin: 14px auto 17px;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
