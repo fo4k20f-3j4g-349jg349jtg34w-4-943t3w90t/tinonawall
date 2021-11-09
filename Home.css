@@ -1,11 +1,12 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 753px;
+  min-height: 729px;
 }
 
 .u-section-1 .u-group-1 {
-  min-height: 543px;
+  min-height: 519px;
   margin-top: 0;
   margin-bottom: 0;
+  height: auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -202,7 +203,11 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 838px;
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -218,7 +223,6 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 940px;
-    margin-top: 0;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -271,10 +275,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 781px;
-  }
-
   .u-section-1 .u-text-1 {
     margin-right: 234px;
   }
@@ -347,10 +347,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1081px;
-  }
-
   .u-section-1 .u-text-1 {
     width: auto;
     margin-left: 27px;
@@ -451,6 +447,10 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 1445px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 8px;
   }
 
   .u-section-2 .u-text-2 {
@@ -626,58 +626,28 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 117px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 20px;
+    min-height: 157px;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 75px;
+    min-height: 100px;
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 75px;
+    min-height: 100px;
   }
 
   .u-section-3 .u-layout-cell-3 {
-    min-height: 75px;
+    min-height: 100px;
   }
 
   .u-section-3 .u-layout-cell-4 {
-    min-height: 75px;
-  }
-
-  .u-section-3 .u-btn-5 {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    min-height: 100px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 353px;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 78px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 78px;
-  }
-
-  .u-section-3 .u-layout-cell-3 {
-    min-height: 78px;
-  }
-
-  .u-section-3 .u-layout-cell-4 {
-    min-height: 78px;
-  }
-
-  .u-section-3 .u-btn-5 {
-    margin-top: 12px;
-    margin-bottom: 0;
+    min-height: 357px;
   }
 }
