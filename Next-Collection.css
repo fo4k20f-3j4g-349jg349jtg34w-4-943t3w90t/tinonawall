@@ -36,7 +36,6 @@
   min-height: 387px;
   margin-top: 12px;
   margin-bottom: 4px;
-  height: auto;
 }
 
 .u-section-2 .u-tab-list-1 {
@@ -213,6 +212,10 @@
   .u-section-2 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-2 .u-tabs-1 {
+    height: auto;
   }
 }
 
