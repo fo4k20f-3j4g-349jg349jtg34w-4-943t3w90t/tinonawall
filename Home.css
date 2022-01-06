@@ -82,11 +82,11 @@
     margin-left: auto;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 387px;
+  min-height: 409px;
 }
 
 .u-section-2 .u-group-1 {
-  min-height: 385px;
+  min-height: 407px;
   margin-top: 1px;
   margin-bottom: 1px;
 }
@@ -185,7 +185,6 @@
   grid-gap: 10px 10px;
   grid-template-columns: calc(14.2857% - 8.57143px) calc(14.2857% - 8.57143px) calc(14.2857% - 8.57143px) calc(14.2857% - 8.57143px) calc(14.2857% - 8.57143px) calc(14.2857% - 8.57143px) calc(14.2857% - 8.57143px);
   min-height: 75px;
-  grid-auto-columns: calc(14.2857% - 8.57143px);
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -292,7 +291,6 @@
     grid-gap: 9px 9px;
     grid-template-columns: calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px);
     min-height: 72px;
-    grid-auto-columns: calc(14.2857% - 7.71429px);
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -339,7 +337,6 @@
   .u-section-3 .u-repeater-1 {
     grid-template-columns: calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px);
     min-height: 132px;
-    grid-auto-columns: calc(25% - 6.75px);
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -400,7 +397,6 @@
   .u-section-3 .u-repeater-1 {
     grid-template-columns: calc(50% - 4.5px) calc(50% - 4.5px);
     min-height: 249px;
-    grid-auto-columns: calc(50% - 4.5px);
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 938px;
