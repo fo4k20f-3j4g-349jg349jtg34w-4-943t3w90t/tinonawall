@@ -82,13 +82,13 @@
     margin-left: auto;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 409px;
+  min-height: 422px;
 }
 
 .u-section-2 .u-group-1 {
   min-height: 407px;
   margin-top: 1px;
-  margin-bottom: 1px;
+  margin-bottom: 14px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -163,6 +163,7 @@
 
   .u-section-2 .u-group-1 {
     min-height: 666px;
+    margin-top: 0;
   }
 
   .u-section-2 .u-container-layout-1 {
