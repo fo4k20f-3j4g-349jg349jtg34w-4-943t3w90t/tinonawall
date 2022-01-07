@@ -34072,8 +34072,78 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 600;
 }
 
+.u-header .u-nav-2 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-3 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-4 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
 .u-header .u-nav-5 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-6 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-7 {
   font-size: 1.25rem;
+}
+
+.u-header .u-nav-8 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-9 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-10 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-11 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
+}
+
+.u-header .u-nav-12 {
+  background-image: none;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  text-transform: none;
+  font-weight: 600;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
