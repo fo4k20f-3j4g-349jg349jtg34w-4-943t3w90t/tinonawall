@@ -23,6 +23,7 @@
   font-weight: 700;
   background-image: none;
   box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
 }
 
 .u-section-1 .u-btn-3 {
@@ -30,6 +31,9 @@
   font-weight: 700;
   background-image: none;
   box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .u-section-1 .u-btn-4 {
@@ -37,6 +41,10 @@
   font-weight: 700;
   background-image: none;
   box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  margin-right: auto;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 @media (max-width: 1199px) {
