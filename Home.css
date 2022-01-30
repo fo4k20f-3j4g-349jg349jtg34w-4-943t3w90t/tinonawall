@@ -360,6 +360,10 @@
   margin: 10px auto 6px 0;
 }
 
+.u-section-4 .u-table-entity-1 {
+  min-height: 100px;
+}
+
 .u-block-ac0e-4 {
   font-weight: 700;
   background-image: none;
@@ -493,10 +497,6 @@
     margin-bottom: 10px;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-4 .u-table-entity-1 {
-    min-height: 100px;
   }
 }
 
