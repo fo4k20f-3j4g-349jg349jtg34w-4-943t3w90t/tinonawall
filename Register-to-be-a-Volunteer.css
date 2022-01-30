@@ -194,12 +194,8 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1190px;
-  }
-
   .u-section-1 .u-text-1 {
-    width: auto;
+    margin-top: 60px;
   }
 
   .u-section-1 .u-tabs-1 {
@@ -249,11 +245,16 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1257px;
+    min-height: 1253px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
   }
 
   .u-section-1 .u-tabs-1 {
     width: 340px;
+    margin-top: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 1016px;
