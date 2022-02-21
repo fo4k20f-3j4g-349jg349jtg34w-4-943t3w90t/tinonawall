@@ -99,7 +99,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1078px;
+  min-height: 1242px;
 }
 
 .u-section-2 .u-text-1 {
@@ -113,7 +113,7 @@
   text-transform: uppercase;
   line-height: 27.2px;
   width: 910px;
-  margin: 32px auto 5px;
+  margin: 37px auto 0;
 }
 
 @media (max-width: 991px) {
@@ -136,7 +136,6 @@
 
   .u-section-2 .u-text-2 {
     width: 540px;
-    margin-bottom: 0;
   }
 }
 
