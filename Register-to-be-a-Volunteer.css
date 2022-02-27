@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 199px;
+  min-height: 171px;
 }
 
 .u-section-1 .u-text-1 {
@@ -10,15 +10,10 @@
 .u-section-1 .u-text-2 {
   font-size: 1.25rem;
   background-image: none;
-  margin: 21px 0 0;
+  margin: 21px 0 6px;
 }
 
 .u-section-1 .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
@@ -84,7 +79,7 @@
     min-height: 88px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 371px;
+  min-height: 1414px;
 }
 
 .u-section-3 .u-text-1 {
