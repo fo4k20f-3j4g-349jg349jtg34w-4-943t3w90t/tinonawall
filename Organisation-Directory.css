@@ -70,7 +70,7 @@
 }
 
 .u-section-1 .u-btn-4 {
-  font-size: 1rem;
+  background-image: none;
   padding: 0;
 }
 
@@ -90,27 +90,27 @@
 }
 
 .u-section-1 .u-btn-8 {
-  font-size: 1rem;
+  background-image: none;
   padding: 0;
 }
 
 .u-section-1 .u-btn-9 {
-  background-image: none;
+  font-size: 1rem;
   padding: 0;
 }
 
 .u-section-1 .u-btn-10 {
-  background-image: none;
+  font-size: 1rem;
   padding: 0;
 }
 
 .u-section-1 .u-btn-11 {
-  font-size: 1rem;
+  background-image: none;
   padding: 0;
 }
 
 .u-section-1 .u-btn-12 {
-  font-size: 1rem;
+  background-image: none;
   padding: 0;
 }
 
@@ -130,7 +130,7 @@
 }
 
 .u-section-1 .u-btn-16 {
-  font-size: 1rem;
+  background-image: none;
   padding: 0;
 }
 
@@ -165,6 +165,21 @@
 }
 
 .u-section-1 .u-btn-23 {
+  font-size: 1rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-24 {
+  font-size: 1rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-25 {
+  font-size: 1rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-26 {
   background-image: none;
   border-style: none;
   font-size: 0.75rem;
@@ -195,11 +210,11 @@
     font-size: 1rem;
   }
 
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-4 {
     font-size: 1rem;
   }
 
-  .u-section-1 .u-btn-9 {
+  .u-section-1 .u-btn-11 {
     font-size: 1rem;
   }
 }
@@ -229,7 +244,7 @@
     margin-top: 74px;
   }
 
-  .u-section-1 .u-btn-23 {
+  .u-section-1 .u-btn-26 {
     margin-left: auto;
   }
 }
@@ -262,7 +277,7 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-23 {
+  .u-section-1 .u-btn-26 {
     margin-top: 0;
   }
 }
@@ -309,10 +324,6 @@
     font-size: 0.75rem;
   }
 
-  .u-section-1 .u-btn-3 {
-    font-size: 0.75rem;
-  }
-
   .u-section-1 .u-btn-4 {
     font-size: 0.75rem;
   }
@@ -329,19 +340,15 @@
     font-size: 0.75rem;
   }
 
-  .u-section-1 .u-btn-8 {
-    font-size: 0.75rem;
-  }
-
   .u-section-1 .u-btn-9 {
     font-size: 0.75rem;
   }
 
-  .u-section-1 .u-btn-11 {
+  .u-section-1 .u-btn-10 {
     font-size: 0.75rem;
   }
 
-  .u-section-1 .u-btn-12 {
+  .u-section-1 .u-btn-11 {
     font-size: 0.75rem;
   }
 
@@ -354,10 +361,6 @@
   }
 
   .u-section-1 .u-btn-15 {
-    font-size: 0.75rem;
-  }
-
-  .u-section-1 .u-btn-16 {
     font-size: 0.75rem;
   }
 
@@ -386,6 +389,18 @@
   }
 
   .u-section-1 .u-btn-23 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-btn-24 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-btn-25 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-btn-26 {
     margin-left: 0;
     margin-right: 0;
   }
