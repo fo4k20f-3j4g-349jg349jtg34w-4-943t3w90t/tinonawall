@@ -34171,7 +34171,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 414px;
+  min-height: 409px;
 }
 
 .u-footer .u-layout-wrap-1 {
@@ -34181,7 +34181,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-1 {
-  min-height: 264px;
+  min-height: 244px;
   margin-top: 0;
 }
 
@@ -34202,7 +34202,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-2 {
-  min-height: 264px;
+  min-height: 244px;
   background-position: 0% 0%;
 }
 
@@ -34248,7 +34248,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-3 {
-  min-height: 264px;
+  min-height: 244px;
   background-position: 0% 0%;
 }
 
@@ -34291,7 +34291,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-4 {
-  min-height: 264px;
+  min-height: 244px;
 }
 
 .u-footer .u-container-layout-4 {
@@ -34331,8 +34331,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-wrap-2 {
-  margin-top: 10px;
-  margin-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 0;
 }
 
 .u-footer .u-layout-cell-5 {
@@ -34415,7 +34415,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 339px;
+    min-height: 524px;
   }
 
   .u-footer .u-layout-wrap-1 {
@@ -34423,7 +34423,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-1 {
-    min-height: 218px;
+    min-height: 201px;
   }
 
   .u-footer .u-text-1 {
@@ -34432,7 +34432,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 218px;
+    min-height: 201px;
   }
 
   .u-footer .u-text-2 {
@@ -34441,7 +34441,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-3 {
-    min-height: 218px;
+    min-height: 201px;
   }
 
   .u-footer .u-text-4 {
@@ -34450,7 +34450,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-4 {
-    min-height: 218px;
+    min-height: 201px;
   }
 
   .u-footer .u-text-6 {
@@ -34541,11 +34541,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-layout-cell-4 {
     min-height: 100px;
-  }
-
-  .u-footer .u-container-layout-4 {
-    padding-left: 0;
-    padding-right: 0;
   }
 
   .u-footer .u-layout-wrap-2 {
