@@ -9,7 +9,7 @@
 }
 
 .u-section-1 .u-text-2 {
-  width: 258px;
+  width: 312px;
   margin: 16px auto 0;
 }
 
@@ -58,6 +58,10 @@
     min-height: 694px;
   }
 
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 502px;
   }
@@ -104,11 +108,19 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 392px;
+    min-height: 1107px;
   }
 
   .u-section-1 .u-text-1 {
     width: 540px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 644px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -117,7 +129,7 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 256px;
+    min-height: 264px;
   }
 
   .u-section-1 .u-text-4 {
@@ -125,14 +137,23 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -52px;
-    margin-left: auto;
+    margin-top: -51px;
+    margin-left: 114px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 392px;
+  }
+
   .u-section-1 .u-text-1 {
     width: 340px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
   }
 
   .u-section-1 .u-text-3 {
@@ -140,16 +161,16 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 236px;
+    min-height: 219px;
   }
 
   .u-section-1 .u-text-4 {
-    margin-top: 159px;
     margin-right: 321px;
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -203px;
+    margin-right: 321px;
+    margin-left: 19px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 587px;
@@ -215,7 +236,7 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 760px;
+    min-height: 485px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -507,12 +528,14 @@
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1080px;
+    min-height: 1020px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
     width: 540px;
-    margin: 0 0 60px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-layout-cell-1 {
