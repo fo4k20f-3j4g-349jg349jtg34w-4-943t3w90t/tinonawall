@@ -103,11 +103,6 @@
 
 .u-section-2 .u-btn-1 {
   background-image: none;
-  padding: 0;
-}
-
-.u-section-2 .u-btn-2 {
-  background-image: none;
   margin-top: 0;
   padding: 0;
 }
@@ -654,7 +649,7 @@
 }
 
 .u-section-5 .u-table-cell-12 {
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .u-section-5 .u-table-cell-13 {
@@ -669,26 +664,22 @@
   font-weight: 700;
 }
 
-.u-section-5 .u-table-cell-16 {
-  font-weight: 700;
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-5 .u-table-cell-17 {
   font-weight: 700;
 }
 
-.u-section-5 .u-btn-1 {
+.u-section-5 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
 
 .u-section-5 .u-table-cell-19 {
   font-weight: 700;
-}
-
-.u-section-5 .u-btn-2 {
-  background-image: none;
-  padding: 0;
 }
 
 .u-section-5 .u-table-cell-21 {
@@ -699,11 +690,7 @@
   font-weight: 700;
 }
 
-.u-section-5 .u-table-cell-25 {
-  font-weight: 700;
-}
-
-.u-section-5 .u-table-cell-29 {
+.u-section-5 .u-table-cell-27 {
   font-weight: 700;
 }
 
@@ -712,11 +699,11 @@
   padding: 0;
 }
 
-.u-section-5 .u-table-cell-31 {
+.u-section-5 .u-table-cell-29 {
   font-weight: 700;
 }
 
-.u-section-5 .u-table-cell-33 {
+.u-section-5 .u-table-cell-31 {
   font-weight: 700;
 }
 
