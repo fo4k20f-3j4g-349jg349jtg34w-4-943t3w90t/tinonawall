@@ -7,13 +7,14 @@
 }
 
 .u-section-1 .u-text-1 {
-  width: 283px;
-  margin: 26px auto 0;
+  font-size: 3rem;
+  width: 203px;
+  margin: 15px auto 0;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   width: 967px;
-  margin: 21px auto 4px;
+  margin: 15px auto 30px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -549,7 +550,9 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
-    margin: 15px 0;
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-icon-1 {

@@ -5,6 +5,7 @@
 .u-section-1 .u-text-1 {
   text-transform: uppercase;
   width: 643px;
+  font-size: 3rem;
   margin: 17px auto 0;
 }
 
@@ -56,10 +57,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 694px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 3rem;
   }
 
   .u-section-1 .u-layout-cell-1 {
