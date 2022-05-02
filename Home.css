@@ -156,11 +156,15 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 571px;
+    min-height: 632px;
   }
 
   .u-section-2 .u-group-1 {
-    min-height: 570px;
+    min-height: 631px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 8px;
   }
 
   .u-section-2 .u-text-1 {
