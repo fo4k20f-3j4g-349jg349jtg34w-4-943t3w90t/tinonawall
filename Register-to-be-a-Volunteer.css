@@ -1108,6 +1108,11 @@
 @media (max-width: 767px) {
   .u-section-7 .u-text-1 {
     width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-bottom: 60px;
   }
 }
 
