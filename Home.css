@@ -89,7 +89,6 @@
   min-height: 386px;
   margin-top: 1px;
   margin-bottom: 0;
-  height: auto;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -120,7 +119,6 @@
 
   .u-section-2 .u-group-1 {
     min-height: 399px;
-    height: auto;
   }
 
   .u-section-2 .u-text-1 {
@@ -162,7 +160,7 @@
   }
 
   .u-section-2 .u-group-1 {
-    min-height: 631px;
+    min-height: 638px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -171,6 +169,7 @@
 
   .u-section-2 .u-text-1 {
     margin-top: 0;
+    margin-bottom: 0;
   }
 }.u-section-3 {
   background-image: none;
