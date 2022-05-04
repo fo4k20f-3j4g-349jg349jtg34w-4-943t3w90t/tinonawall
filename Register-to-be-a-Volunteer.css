@@ -110,6 +110,7 @@
 
 .u-section-3 .u-tab-link-1 {
   background-image: none;
+  font-weight: 700;
 }
 
 .u-section-3 .u-tab-item-2 {
@@ -336,10 +337,6 @@
     height: auto;
   }
 
-  .u-section-3 .u-tab-link-1 {
-    font-weight: normal;
-  }
-
   .u-section-3 .u-text-6 {
     margin-right: 350px;
   }
@@ -347,7 +344,6 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-tab-link-1 {
-    font-weight: 700;
     padding: 5px 20px;
   }
 
