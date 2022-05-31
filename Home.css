@@ -243,17 +243,19 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1807px;
+    min-height: 1021px;
   }
 
   .u-section-4 .u-gallery-1 {
     height: 1020px;
+    margin-top: 1px;
+    margin-bottom: 1px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1138px;
+    min-height: 643px;
   }
 
   .u-section-4 .u-gallery-1 {
@@ -268,7 +270,7 @@
 }
 
 .u-section-5 .u-text-1 {
-  margin: 10px 0;
+  margin: 5px 0 15px;
 }.u-section-6 {
   background-image: none;
 }
