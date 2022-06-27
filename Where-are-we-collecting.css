@@ -421,7 +421,6 @@
   min-height: 211px;
   margin-top: 14px;
   margin-bottom: 4px;
-  height: auto;
 }
 
 .u-section-4 .u-tab-list-1 {
@@ -788,6 +787,10 @@
   .u-section-4 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-4 .u-tabs-1 {
+    height: auto;
   }
 
   .u-section-4 .u-text-2 {
