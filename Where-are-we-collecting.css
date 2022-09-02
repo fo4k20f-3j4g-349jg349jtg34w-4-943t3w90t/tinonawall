@@ -427,7 +427,7 @@
     min-height: 88px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 1007px;
+  min-height: 694px;
 }
 
 .u-section-4 .u-text-1 {
@@ -436,9 +436,9 @@
 }
 
 .u-section-4 .u-tabs-1 {
-  min-height: 773px;
+  min-height: 460px;
   margin-top: 14px;
-  margin-bottom: 0;
+  margin-bottom: 4px;
   height: auto;
 }
 
@@ -634,7 +634,7 @@
 }
 
 .u-section-4 .u-container-layout-4 {
-  padding: 30px 30px 4px;
+  padding: 30px 30px 0;
 }
 
 .u-section-4 .u-text-5 {
