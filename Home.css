@@ -89,7 +89,6 @@
   min-height: 370px;
   margin-top: 1px;
   margin-bottom: 1px;
-  height: auto;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -120,10 +119,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 .u-group-1 {
-    height: auto;
-  }
-
   .u-section-2 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
@@ -144,8 +139,7 @@
 .u-section-3 .u-repeater-1 {
   grid-gap: 10px 10px;
   grid-template-columns: calc(12.5% - 8.75px) calc(12.5% - 8.75px) calc(12.5% - 8.75px) calc(12.5% - 8.75px) calc(12.5% - 8.75px) calc(12.5% - 8.75px) calc(12.5% - 8.75px) calc(12.5% - 8.75px);
-  min-height: 128px;
-  grid-auto-columns: calc(12.5% - 8.75px);
+  min-height: 30px;
 }
 
 .u-section-3 .u-list-item-1 {
@@ -286,13 +280,13 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 82px;
+    min-height: 208px;
   }
 
   .u-section-3 .u-repeater-1 {
     grid-gap: 9px 9px;
     grid-template-columns: calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px) calc(14.2857% - 7.71429px);
-    min-height: 106px;
+    min-height: 25px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -338,13 +332,12 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 142px;
+    min-height: 157px;
   }
 
   .u-section-3 .u-repeater-1 {
     grid-template-columns: calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px);
-    min-height: 325px;
-    grid-auto-columns: calc(25% - 7.5px);
+    min-height: 118px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -390,23 +383,30 @@
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 141px;
+    min-height: 184px;
   }
 
   .u-section-3 .u-repeater-1 {
-    min-height: 975px;
-    grid-auto-columns: calc(50% - 5px);
+    min-height: 109px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 270px;
+    min-height: 318px;
   }
 
   .u-section-3 .u-repeater-1 {
     grid-template-columns: calc(50% - 4.5px) calc(50% - 4.5px);
-    grid-auto-columns: calc(100% - 0px);
+    min-height: 302px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 8px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-top: 8px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 820px;
