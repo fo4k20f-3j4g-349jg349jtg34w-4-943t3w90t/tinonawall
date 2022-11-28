@@ -284,15 +284,15 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 798px;
-  }
-
   .u-section-2 .u-tabs-1 {
     min-height: 357px;
   }
 
   .u-section-2 .u-container-layout-3 {
+    padding-bottom: 4px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
     padding-bottom: 4px;
   }
 }.u-section-3 {
@@ -338,6 +338,7 @@
   min-height: 475px;
   margin-top: 14px;
   margin-bottom: 4px;
+  height: auto;
 }
 
 .u-section-4 .u-tab-list-1 {
@@ -546,11 +547,11 @@
 }
 
 .u-section-4 .u-container-layout-6 {
-  padding: 0 0 28px;
+  padding: 0 0 8px;
 }
 
 .u-section-4 .u-text-7 {
-  margin: 29px auto -29px 29px;
+  margin: 40px auto -12px 28px;
 }
 
 .u-section-4 .u-btn-3 {
@@ -646,10 +647,6 @@
   .u-section-4 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-4 .u-tabs-1 {
-    height: auto;
   }
 
   .u-section-4 .u-text-11 {
