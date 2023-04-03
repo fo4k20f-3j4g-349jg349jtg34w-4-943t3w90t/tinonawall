@@ -1,10 +1,10 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 221px;
+  min-height: 238px;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 3rem;
-  margin: 18px 20px 0;
+  margin: 1px 20px 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -14,11 +14,6 @@
 }
 
 .u-section-1 .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
@@ -38,6 +33,11 @@
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
     width: auto;
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-bottom: 0;
   }
 }
 
