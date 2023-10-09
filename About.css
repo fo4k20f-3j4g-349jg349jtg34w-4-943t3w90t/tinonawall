@@ -819,7 +819,7 @@
     margin-top: 37px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 849px;
+  min-height: 768px;
 }
 
 .u-section-4 .u-text-1 {
@@ -833,11 +833,15 @@
 
 .u-section-4 .u-btn-1 {
   background-image: none;
-  font-weight: 700;
   padding: 0;
 }
 
 .u-section-4 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-3 {
   background-image: none;
   margin: 0 auto 2px;
   padding: 0;
