@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 165px;
+  min-height: 169px;
 }
 
 .u-section-1 .u-group-1 {
@@ -27,26 +27,14 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 155px;
-  }
-
   .u-section-1 .u-group-1 {
     width: 940px;
-    margin-top: 14px;
-    margin-bottom: 4px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 277px;
-  }
-
   .u-section-1 .u-group-1 {
-    min-height: 270px;
     width: 720px;
-    margin-top: 0;
   }
 
   .u-section-1 .u-image-1 {
@@ -56,13 +44,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 155px;
-  }
-
   .u-section-1 .u-group-1 {
-    min-height: 145px;
-    margin-bottom: 10px;
     width: 540px;
   }
 
@@ -79,12 +61,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 135px;
-  }
-
   .u-section-1 .u-group-1 {
-    min-height: 134px;
     width: 340px;
   }
 
@@ -105,7 +82,7 @@
 }
 
 .u-section-2 .u-group-1 {
-  min-height: 284px;
+  min-height: 312px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -117,7 +94,7 @@
 .u-section-2 .u-text-1 {
   font-size: 1.5rem;
   animation-duration: 1000ms;
-  margin: 0 20px;
+  margin: 0 57px;
 }
 
 .u-section-2 .u-text-2 {
@@ -153,15 +130,13 @@
   }
 
   .u-section-2 .u-text-1 {
-    width: auto;
-    margin-top: 19px;
-    margin-left: 0;
     margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-2 {
-    margin-right: 0;
     margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -174,21 +149,12 @@
     min-height: 656px;
     margin-top: 28px;
   }
-
-  .u-section-2 .u-text-1 {
-    margin-top: -8px;
-  }
-
-  .u-section-2 .u-text-2 {
-    width: auto;
-    margin-top: 14px;
-  }
 }.u-section-3 {
   background-image: none;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 254px;
+  min-height: 325px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -198,9 +164,9 @@
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 252px;
+  min-height: 323px;
   margin-top: 0;
-  background-image: url("images/458932110_829153472680205_1208330052250500911_n.jpg");
+  background-image: url("images/407467661_670009408594613_4957059864122950604_n2.jpg");
   background-position: 50% 50%;
 }
 
